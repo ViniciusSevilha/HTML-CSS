@@ -1,0 +1,65 @@
+Harmonização de cores
+
+circulo cromático - utilizado para harmonizar as cores
+12 cores principais
+
+cimetria torna as coisas mais bonitas
+
+cores primárias
+-amarelo 
+-vermelho 
+-azul
+no circulo cromático formam um triângulo equilátero
+
+cores secundárias
+-laranja 
+-violeta 
+-verde
+
+cores terciárias: são todas as cores que são misturas das cores primárias e secundária
+Sempre que formar uma cor terciaria, colocar o nome da cor primária seguido da secundária
+ex: -amarelo-esverdeado
+amarelo-alaranjado
+-vermelho-alaranjado
+vermelho-arroxeado
+azul-arroxeado
+azul-esverdeado
+
+temperatura de cores
+frias e quentes
+
+A paleta de cores sempre parte de uma cor principal
+uma paleta sempre tem de 3 a 5 cores - recomendado 4 cores, sem contar preto e branco
+se o cliente tem um logo, utilizar a cor primária do logo como cor principal da paleta, harmonizar as outras cores baseado na cor princial
+
+Cores Complementares
+Cores opostas no circulo cromático contrastam muito uma com a outra ( cores complementares)
+-vermelho contrasta com o verde
+-violeta contrasta com amarelo 
+estão em lados opostos do circulo cromático
+
+Cores Análogas ( não tem um grande contrastes mas são percepitíveis)
+São as cores vizinhas, as que estão ao lado da cor escolhida
+
+Cores Análogas e uma complementar
+cor principal com as duas vizinhas e uma complementar (oposta a cor principal)
+
+Cores análogas relacionadas
+Escolher duas cores do curculo cromático, pular a terceira e escolher a quarta
+
+Cores intercaladas
+Amarelo pula uma e escolhe a outra, podendo pular uma, duas ou três
+
+Cores Triádicas
+Escolher uma cor, pula três, escolhe a quarta e pula mais três, escolhe a quarta.
+
+Cores em Quadrado
+escolhe a primeira, pula duas, escolhe a terceira, pula duas, escolhe a terceira, pula mais duas escolhe a terceira
+
+Cores tetrádicas
+escolhe uma cor, e sua cor oposta, escolher outra cor e também sua cor oposta
+verde e vermelho, azul e laranja
+
+Monocromia ( gera o efeito degradê
+trabalha com uma cor
+utiliza uma unica cor e altera saturação e brilho(luminosidade)

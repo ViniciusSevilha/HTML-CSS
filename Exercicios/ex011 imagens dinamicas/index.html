@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Mídias em HTML 5</title>
+</head>
+<body>
+    <h1>Imagens Dinâmicas</h1>
+    <p>Tente abrir esse site em vários dispositivos diferentes ou simplesmente aumente e diminua o tamanho do seu navegador.</p>
+
+    <picture>
+        <source media="(max-width: 730px)" srcset="imagens/foto-p.png">
+        <source media="(max-width: 1030px)" srcset="imagens/foto-m.png">
+        <img src="imagens/foto-g.png" alt="Imagen flexível">
+    </picture>
+
+    <h1>Reproduzindo áudio</h1>
+    <!--<audio src="midia/osa_dress_code.mp3" controls autoplay></audio> --> 
+    <audio preload="metadata" controls>
+        <source src="midia/osa_dress_code.mp3" type="audio/mpeg">
+        <source src="midia/osa_dress_code.ogg" type="audio/ogg">
+        <p>Infelizmente não seu navegador não conseguiu reproduzir o áudio <a href="midia/osa_dress_code.mp3">clique aqui para baixar e ouvir.</a></p>
+    </audio>
+</body>
+</html>
